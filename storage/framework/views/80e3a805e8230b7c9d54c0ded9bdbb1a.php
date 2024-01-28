@@ -1,0 +1,1 @@
+<h1>baguz ganteng<h1><?php /**PATH D:\laragon\www\laravel\resources\views/hallo.blade.php ENDPATH**/ ?>
